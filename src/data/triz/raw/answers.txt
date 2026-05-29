@@ -1,0 +1,247 @@
+[
+  {
+    "question_number": "Câu 1.",
+    "question": "Phương pháp luận (Methodology) là gì?",
+    "answer": "Phương pháp luận (Methodology) là bộ phận của PPLSTVĐM, có nhiệm vụ xây dựng và trang bị cho những người học hệ thống các phương pháp (phương pháp luận), các kỹ năng cụ thể sử dụng phương pháp để họ có được quá trình suy nghĩ và hành động đúng."
+  },
+  {
+    "question_number": "Câu 2.",
+    "question": "Sáng tạo (Creativity) là gì?",
+    "answer": "Sáng tạo (Creativity) là hoạt động tạo ra bất kỳ cái gì có đồng thời tính mới và tính ích lợi."
+  },
+  {
+    "question_number": "Câu 3.",
+    "question": "Tính mới trong sáng tạo được định nghĩa như thế nào?",
+    "answer": "Theo định nghĩa trong Context, \"tính mới\" không được sử dụng theo định nghĩa thứ ba với nội dung rộng hơn. Thay vào đó, cần sử dụng khái niệm thông tin theo định nghĩa thứ nhất và thứ hai.\n\nĐịnh nghĩa thứ nhất cho \"tính mới\" là tri thức thấy ngay, giống như định nghĩa một và hai trong Context.\n\nVậy, \"tính mới\" trong sáng tạo được định nghĩa là tri thức thấy ngay."
+  },
+  {
+    "question_number": "Câu 4.",
+    "question": "Tính ích lợi trong sáng tạo được hiểu như thế nào?",
+    "answer": "Tính ích lợi trong sáng tạo được hiểu là sự tạo ra giá trị thặng dư, tức là sự mang lại lợi ích hoặc lợi nhuận cho con người, xã hội thông qua việc áp dụng một ý tưởng, phương pháp mới.\n\nTrong ngữ cảnh này, tính ích lợi không chỉ đơn giản là việc tạo ra một thứ gì đó mới mà còn phải có khả năng mang lại lợi ích thực tế cho con người. Ví dụ, trong lĩnh vực PPLSTVĐM, mỗi phương pháp sáng tạo đều có ích lợi nhất định, chẳng hạn như tăng năng suất, hiệu quả.\n\nTính mới không chỉ là việc có ý tưởng mới mà còn phải được áp dụng một cách hiệu quả để mang lại lợi ích thực tế. Trong trường hợp của người giải bài toán suy nghĩ bằng hình vẽ, tính mới đã đem lại ích lợi qua việc tạo ra một phương pháp sáng tạo mới và hiệu quả trong việc giải quyết vấn đề.\n\nTóm lại, tính ích lợi trong sáng tạo là sự kết hợp giữa tính mới và khả năng mang lại lợi ích thực tế cho con người."
+  },
+  {
+    "question_number": "Câu 5.",
+    "question": "Phạm vi áp dụng có xuất xứ từ đâu và được hiểu như thế nào?",
+    "answer": "Phạm vi áp dụng là khái niệm chỉ vùng lãnh thổ hoặc phạm vi mà một khái niệm, thuật ngữ, công cụ, hình thức, ý tưởng... có thể được sử dụng, áp dụng và thực hiện hiệu quả.\n\nTrong ngữ cảnh của câu hỏi, phạm vi áp dụng xuất xứ từ khái niệm về \"phạm vi\" (space) trong ngôn ngữ học và logic. Phạm vi áp dụng được hiểu là vùng lãnh thổ hoặc phạm vi mà một khái niệm, thuật ngữ, công cụ, hình thức... có thể được sử dụng, áp dụng và thực hiện hiệu quả.\n\nTrong trường hợp của câu hỏi, phạm vi áp dụng của kiến thức mới được hiểu là vùng lãnh thổ hoặc phạm vi mà kiến thức mới có thể được sử dụng, áp dụng và thực hiện hiệu quả. Khi đó, kiến thức mới ảnh hưởng đến những kiến thức đã biết của mình bằng cách mở rộng phạm vi áp dụng của chúng, giúp chúng trở nên hiệu quả hơn trong việc giải quyết vấn đề hoặc đạt được mục tiêu.\n\nPhạm vi áp dụng có thể đem lại những ích lợi như:\n\n* Giúp cho người sử dụng kiến thức mới có thể áp dụng nó vào thực tế và đạt được kết quả tốt hơn.\n* Mở rộng phạm vi ứng dụng của kiến thức, giúp nó trở nên hiệu quả hơn trong việc giải quyết vấn đề hoặc đạt được mục tiêu.\n* Giúp cho người sử dụng kiến thức mới có thể hiểu rõ hơn về phạm vi áp dụng của nó và cách nó có thể được sử dụng hiệu quả.\n\nTóm lại, phạm vi áp dụng là khái niệm chỉ vùng lãnh thổ hoặc phạm vi mà một khái niệm, thuật ngữ, công cụ, hình thức... có thể được sử dụng, áp dụng và thực hiện hiệu quả."
+  },
+  {
+    "question_number": "Câu 6.",
+    "question": "Vấn đề - bài toán (Problem) là gì?",
+    "answer": "Vấn đề - bài toán (Problem) là tình huống, ở đó người giải biết mục đích cần đạt nhưng: 1) Không biết cách đạt đến mục đích, hoặc 2) Không biết cách tối ưu đạt đến mục đích trong một số cách đã biết."
+  },
+  {
+    "question_number": "Câu 7.",
+    "question": "Bài toán đúng (bài toán cụ thể được phát biểu đúng) là gì?",
+    "answer": "\"Bài toán đúng (hay bài toán cụ thể được phát biểu đúng) là một bài toán cụ thể đã được xác định và giải quyết trước đó, thường được lấy từ các nguồn giáo dục như sách giáo khoa, bài tập, tham khảo,..., và đã được chứng minh là có giải pháp chính xác và hợp lý.\""
+  },
+  {
+    "question_number": "Câu 8.",
+    "question": "Tình huống vấn đề xuất phát là gì?",
+    "answer": "Tình huống vấn đề xuất phát là một sự kiện hoặc hoàn cảnh cụ thể trong đó có một vấn đề cần giải quyết, đòi hỏi sự quan tâm và hành động đặc biệt. Tình huống vấn đề xuất phát thường được xác định bởi sự tồn tại của một vấn đề hoặc thách thức cần được giải quyết, và nó thường liên quan đến một hệ thống, tổ chức hoặc cá nhân cụ thể.\n\nTình huống vấn đề xuất phát thường có các đặc điểm sau:\n\n- Có một vấn đề hoặc thách thức cần giải quyết.\n- Được xác định bởi sự tồn tại của một vấn đề hoặc thách thức cần được giải quyết.\n- Liên quan đến một hệ thống, tổ chức hoặc cá nhân cụ thể.\n- Demanding sự quan tâm và hành động đặc biệt.\n\nTình huống vấn đề xuất phát là một khái niệm quan trọng trong các lĩnh vực như quản lý, kinh doanh, giáo dục, y tế,... và nó thường được sử dụng để chỉ rõ mục tiêu và ưu tiên giải quyết vấn đề."
+  },
+  {
+    "question_number": "Câu 9.",
+    "question": "Tư duy sáng tạo (Creative Thinking) là gì?",
+    "answer": "Tư duy sáng tạo (Creative Thinking) là quá trình suy nghĩ đưa người giải quyết vấn đề và ra quyết định."
+  },
+  {
+    "question_number": "Câu 10.",
+    "question": "Đổi mới (Innovation) là gì?",
+    "answer": "Đổi mới (Innovation) là quá trình thực hiện tạo ra cái mới sao cho các hệ thống liên quan tiếp nhận cái mới đó một cách đầy đủ, ổn định và bền vững để các hệ liên quan hoạt động tốt hơn trước. Khái niệm \"đổi mới\" giống khái niệm sáng tạo ở chỗ, nó có đồng thời tính mới (tạo ra cái mới) và tính ích lợi (hệ liên quan hoạt động tốt hơn trước)."
+  },
+  {
+    "question_number": "Câu 11.",
+    "question": "Khái niệm đổi mới giống và khác khái niệm sáng tạo ở điểm nào?",
+    "answer": "Khái niệm \"đổi mới\" giống khái niệm sáng tạo ở chỗ, nó có đồng thời tính mới (tạo ra cái mới) và tính ích lợi (hệ liên quan hoạt động tốt hơn trước). Tuy vậy, điểm khác biệt chính là khái niệm \"đổi mới\" tập trung vào quá trình thực hiện tạo ra cái mới, trong khi khái niệm sáng tạo thường chỉ tập trung vào việc tạo ra cái mới mà không nhất thiết phải đảm bảo tính ổn định và bền vững."
+  },
+  {
+    "question_number": "Câu 12.",
+    "question": "Đổi mới hoàn toàn là gì?",
+    "answer": "Theo Context, \"Đổi mới hoàn toàn\" trong phương pháp luận sáng tạo và đổi mới (PPLSTVĐM) được định nghĩa là quá trình thay đổi hoàn toàn hệ thống, quy luật phát triển của một thực thể, để đạt được mục tiêu cải thiện hoặc nâng cao hiệu suất.\n\nTrong ngữ cảnh này, đổi mới hoàn toàn không chỉ giới hạn ở việc thay đổi một phần nhỏ của hệ thống, mà là một sự thay đổi toàn diện và sâu sắc, nhằm tạo ra một hệ thống mới với các quy luật phát triển khác nhau."
+  },
+  {
+    "question_number": "Câu 13.",
+    "question": "Hệ thống (System) là gì?",
+    "answer": "Hệ thống (System) được định nghĩa là thực thể nguyên vẹn có chức năng xác định, đóng vai trò chủ đạo đối với các yếu tố cấu trúc."
+  },
+  {
+    "question_number": "Câu 14.",
+    "question": "Tính hệ thống là gì?",
+    "answer": "Tính hệ thống là tính toàn thể của một hệ cho trước, bao gồm cả mục đích, chức năng và chất lượng mà toàn thể hệ mới có so với các yếu tố hoặc hệ dưới cùng các mối liên kết tạo nên hệ thống."
+  },
+  {
+    "question_number": "Câu 15.",
+    "question": "Môi trường của hệ thống là gì?",
+    "answer": "Theo định nghĩa trong Context, môi trường xã hội được hiểu là tất cả những gì còn lại của xã hội, ngoài hệ điều khiển và hệ bị điều khiển."
+  },
+  {
+    "question_number": "Câu 16.",
+    "question": "Hệ trên và hệ dưới là gì?",
+    "answer": "Theo Context, định nghĩa học thuật về hệ trên và hệ dưới được nêu rõ:\n\n\"Hệ trên bao gồm nhiều hệ liên kết với nhau. Một hệ lại gồm nhiều hệ dưới liên kết với nhau và cứ như thế...\"\n\nVì vậy, định nghĩa chuẩn cho hệ trên và hệ dưới là:\n\n- Hệ trên: Là một bộ phận lớn bao gồm nhiều hệ nhỏ hơn liên kết với nhau.\n- Hệ dưới: Là một hệ nhỏ hơn được liên kết với nhau trong một hệ trên."
+  },
+  {
+    "question_number": "Câu 17.",
+    "question": "Chức năng của hệ thống là gì?",
+    "answer": "Tính hệ thống của một hệ cho trước được hiểu là chức năng hoặc mục đích chính của toàn thể hệ cho trước. Đây là tính chất mà toàn thể hệ cho trước mới có, và nó quyết định sự tồn tại và hoạt động của hệ cho trước.\n\nTính hệ thống của một hệ cho trước thường được xác định bởi câu hỏi: \"Hệ cho trước có chức năng gì?\" hoặc \"Hệ cho trước có mục đích gì?\". Câu trả lời này sẽ giúp chúng ta hiểu rõ về tính chất mà toàn thể hệ cho trước mới có, và nó sẽ quyết định sự tồn tại và hoạt động của hệ cho trước.\n\nTính hệ thống của một hệ cho trước không chỉ đơn giản là kết cấu hệ thống (phương tiện tạo ra tính hệ thống), mà còn bao gồm cả chức năng hoặc mục đích chính của toàn thể hệ cho trước."
+  },
+  {
+    "question_number": "Câu 18.",
+    "question": "Cấu trúc của hệ thống là gì?",
+    "answer": "Cấu trúc của hệ thống được định nghĩa là tập hợp các mối liên kết giữa các yếu tố trong hệ thống, bao gồm cả vật chất, năng lượng, thông tin và các tổ hợp của chúng."
+  },
+  {
+    "question_number": "Câu 19.",
+    "question": "Hành vi của hệ thống là gì?",
+    "answer": "Theo quan điểm học thuật, hành vi của hệ thống được hiểu là quá trình thực hiện chức năng, mục đích chính của hệ thống đó. Hành vi của hệ thống là sự hoạt động của các thành phần, cấu trúc và quy luật trong hệ thống để đạt được mục tiêu và chức năng đã được định nghĩa.\n\nHành vi của hệ thống thường được hiểu là sự tương tác giữa các thành phần và môi trường xung quanh, nhằm thực hiện chức năng chính của hệ thống. Ví dụ, hành vi của một hệ thống máy tính là quá trình thực hiện các chương trình, xử lý dữ liệu, và giao tiếp với người dùng.\n\nHành vi của hệ thống cũng có thể được hiểu là sự thay đổi ổn định và bền vững trong các hành động (hành vi) của các thành phần hoặc cá nhân liên quan đến hệ thống."
+  },
+  {
+    "question_number": "Câu 20.",
+    "question": "Sự tương hợp (compatibility) trong hệ thống là gì?",
+    "answer": "Sự tương hợp (compatibility) trong hệ thống là mối quan hệ giữa các phần của hệ thống, trong đó sự tương hợp tăng lên theo số lượng thông số nhất định, nhằm đạt được sự tương hợp về mọi mặt (sự tương hợp toàn diện)."
+  },
+  {
+    "question_number": "Câu 21.",
+    "question": "Sự thông suốt (conductability) trong hệ thống là gì?",
+    "answer": "Tư duy hệ thống là quá trình suy nghĩ của người giải, sao cho người giải không chỉ thấy, hiểu, xử lý thông tin... về hệ có trong bài toán và bài toán như là hệ thống mà, về mặt nguyên tắc, toàn bộ các hệ có trong không gian hệ thống.\n\nSự thông suốt (conductability) trong hệ thống là khả năng truyền thông tin một cách hiệu quả và liên tục giữa các bộ phận của hệ thống, phụ thuộc vào sự tương thích và phối hợp giữa các đại lượng liên quan như tốc độ phát, thời gian, công suất, chất lượng... của mỗi bộ phận."
+  },
+  {
+    "question_number": "Câu 22.",
+    "question": "Sự linh động (Mobility) trong hệ thống là gì?",
+    "answer": "\"Sự linh động (Mobility) trong hệ thống là khả năng của toàn thể hệ cho trước có thể thay đổi và thích nghi với các điều kiện khác nhau để đáp ứng mục đích và chức năng của nó, đồng thời duy trì tính hệ thống cần thiết.\""
+  },
+  {
+    "question_number": "Câu 23.",
+    "question": "Ý niệm (Concept) là gì?",
+    "answer": "Theo quy định của PPLSTVĐM, khái niệm \"Ý niệm\" (Concept) được định nghĩa là:\n\n\"Ý niệm (Concept) là các ý nghĩ phản ánh các đặc tính của một hay nhiều đối tượng, hiểu theo nghĩa rộng: Bất kỳ cái gì cũng có thể coi là đối tượng.\""
+  },
+  {
+    "question_number": "Câu 24.",
+    "question": "Nguyên tắc hoạt động trong hệ thống là gì?",
+    "answer": "Theo quan niệm mang tính nguyên tắc nhìn theo quan điểm hệ thống, nguyên tắc hoạt động trong hệ thống được hiểu là các thủ thuật sáng tạo cơ bản giúp biến đổi hệ tiền thân thành hệ cải tiến.\n\nTính chất này thể hiện qua việc áp dụng các nguyên tắc như \"tách khỏi\", \"phẩm chất cục bộ\", \"vạn năng\", \"dự phòng\", \"đảo ngược\", \"linh động\", \"chuyển sang chiều khác\" và \"liên tục các tác động có ích\" để tạo ra một hệ thống mới có tính toàn thể tốt hơn so với hệ tiền thân.\n\nNhững nguyên tắc này giúp xác định mục đích, chức năng và tính chất của hệ thống, đồng thời cung cấp công cụ phát ý tưởng để biến đổi hệ tiền thân thành hệ cải tiến."
+  },
+  {
+    "question_number": "Câu 25.",
+    "question": "Nguồn dự trữ (Resources) trong hệ thống là gì?",
+    "answer": "Theo quan điểm nghiên cứu và sử dụng các nguồn dự trữ có sẵn để tìm ý tưởng, thiết kế, chế tạo kết cấu của hệ thống cải tiến, trong bài toán “lấy nước”, nguồn dự trữ (Resources) được định nghĩa là các yếu tố có sẵn mà con người có thể sử dụng để thay đổi, phát triển tính hệ thống qua việc tương tác và giải quyết vấn đề."
+  },
+  {
+    "question_number": "Câu 26.",
+    "question": "Tính lý tưởng của hệ thống được hiểu như thế nào?",
+    "answer": "Tôi xin trả lời theo văn phong định nghĩa học thuật:\n\nTính tương hợp (tương thích) là mối quan hệ giữa các phần hoặc thành phần của một hệ thống, trong đó mỗi phần hoặc thành phần có thể hoạt động độc lập và được kết nối với nhau để tạo ra hiệu suất cao hơn so với từng phần hoặc thành phần riêng lẻ.\n\nTính tương hợp có thể được hiểu theo ba khía cạnh chính:\n\n1. Tương tự: Mỗi phần hoặc thành phần của hệ thống phải có tính tự nhiên, phù hợp với chức năng và mục đích của hệ thống.\n2. Không đồng đều: Các bộ phận của hệ thống không phải lúc nào cũng phát triển đồng đều, một số phần được ưu tiên tập trung đầu tư phát triển hơn các phần khác.\n3. Tương thích: Mỗi phần hoặc thành phần của hệ thống phải có thể kết nối và tương tác với nhau để tạo ra hiệu suất cao hơn so với từng phần hoặc thành phần riêng lẻ.\n\nTính tương hợp là một trong những quy luật cơ bản của hệ thống, giúp cho các hệ thống hoạt động hiệu quả và đạt được mục đích mong muốn."
+  },
+  {
+    "question_number": "Câu 27.",
+    "question": "Hệ lý tưởng cuối cùng là gì?",
+    "answer": "Theo định nghĩa học thuật, hệ lý tưởng cuối cùng (KLC) được hiểu là một hệ thống hoặc quá trình có khả năng đạt được kết quả lý tưởng tối ưu, trong đó các yếu tố và quy trình được thiết kế để tối đa hóa hiệu suất và giảm thiểu tác động tiêu cực.\n\nTrong ngữ cảnh này, hệ lý tưởng cuối cùng không phải là một trạng thái thực tế đã đạt được, mà là một hướng dẫn hoặc một mục tiêu lý tưởng mà hệ thống hoặc quá trình có thể theo đuổi. Hệ lý tưởng cuối cùng chỉ ra hướng có lời giải mạnh nhất và cung cấp sự hướng dẫn để đạt được kết quả tối ưu.\n\nTóm lại, hệ lý tưởng cuối cùng là một khái niệm lý thuyết, mô tả một trạng thái lý tưởng mà hệ thống hoặc quá trình có thể đạt được thông qua thiết kế và quản lý hiệu quả."
+  },
+  {
+    "question_number": "Câu 28.",
+    "question": "Mâu thuẫn (Contradiction) trong sáng tạo là gì?",
+    "answer": "Mâu thuẫn (Contradiction) trong sáng tạo và đổi mới là một khái niệm quan trọng được sử dụng trong triết học và lý thuyết phát triển. Theo định nghĩa của Marx, mâu thuẫn là \"các đối lập không thể đồng thời tồn tại nhưng cũng không thể tách biệt khỏi nhau\".\n\nTrong lĩnh vực sáng tạo và đổi mới, mâu thuẫn thường gặp bao gồm:\n\n1) Mâu thuẫn giữa mục tiêu và phương tiện: Mục tiêu của một dự án hoặc sản phẩm có thể khác với phương tiện để đạt được mục tiêu đó.\n2) Mâu thuẫn giữa sự phát triển và ổn định: Sự phát triển cần phải đi kèm với sự ổn định, nhưng hai khái niệm này thường đối lập với nhau.\n3) Mâu thuẫn giữa sáng tạo và thực tế: Sáng tạo có thể đòi hỏi sự thay đổi và rủi ro, nhưng trong khi đó, thực tế thường yêu cầu sự ổn định và an toàn.\n\nĐể phát hiện ra mâu thuẫn, người sáng tạo cần phải quan sát và phân tích các vấn đề, tìm kiếm những điểm đối lập và không nhất quán."
+  },
+  {
+    "question_number": "Câu 29.",
+    "question": "Mâu thuẫn hành chính (Administrative Contradiction - AC) là gì?",
+    "answer": "Mâu thuẫn hành chính (Administrative Contradiction - AC) là loại mâu thuẫn được Altshuller tìm ra, kết quả khái quát hóa các loại mâu thuẫn cụ thể gặp trong các bài toán cụ thể thuộc các lĩnh vực chuyên môn cụ thể khác nhau, dưới ánh sáng các luận điểm của phép biện chứng về mâu thuẫn và giải quyết mâu thuẫn để có được sự phát triển."
+  },
+  {
+    "question_number": "Câu 30.",
+    "question": "Mâu thuẫn kỹ thuật (Technical Contradiction - TC) là gì?",
+    "answer": "Mâu thuẫn kỹ thuật (TC) là loại mâu thuẫn xuất hiện khi người giải bài toán sử dụng những ý tưởng quen thuộc, đã biết dựa trên kinh nghiệm của chính người giải hoặc kinh nghiệm, phương pháp có sẵn trong lĩnh vực nơi bài toán nảy sinh."
+  },
+  {
+    "question_number": "Câu 31.",
+    "question": "Mâu thuẫn vật lý (Physical Contradiction - PC) là gì?",
+    "answer": "Mâu thuẫn vật lý (PC) là loại mâu thuẫn trong đó có sự đối lập giữa hai lực lượng chính trong một hệ thống, dẫn đến sự không nhất quán và xung đột giữa chúng."
+  },
+  {
+    "question_number": "Câu 32.",
+    "question": "Thông số là gì?",
+    "answer": "Theo Context, thông tin là bất kỳ kích thích nào lên chủ thể mà cuối cùng chủ thể cảm nhận được. Người thu thông tin xác định mức độ quan tâm đối với thông tin cho trước, thông tin cho trước nói về vấn đề gì (tìm luận đề)? Kết luận của luận ý là gì?\n\nTrong bối cảnh này, thông số được hiểu là các phần hoặc thông tin cụ thể mà người thu thông tin cần có sự tương hợp để tạo thành một hệ thống toàn diện. Sự tương hợp giữa các phần của hệ thống, ban đầu có thể diễn ra theo một, vài thông số, nhưng với thời gian, số lượng các thông số cần có sự tương hợp tăng lên.\n\nTheo định nghĩa, thông số là các phần hoặc thông tin cụ thể mà người thu thông tin cần có sự tương hợp để tạo thành một hệ thống toàn diện."
+  },
+  {
+    "question_number": "Câu 33.",
+    "question": "Trường là gì theo nghĩa trong phương pháp sáng tạo?",
+    "answer": "Theo nghĩa rộng của phương pháp luận trong bộ sách PPLSTVĐM, trường được hiểu là một đơn vị phân loại đối tượng sáng tạo hay không."
+  },
+  {
+    "question_number": "Câu 34.",
+    "question": "Chất là gì theo nghĩa trong phương pháp sáng tạo?",
+    "answer": "Theo ngữ cảnh của Context, chất trong phương pháp sáng tạo (PPLSTVĐM) được hiểu là tính hệ thống, tức là khả năng hoàn thành một công việc để đạt kết quả cụ thể. Chất này phản ánh sự liên kết và tương quan giữa các yếu tố khác nhau trong quá trình sáng tạo và đổi mới.\n\nChính xác hơn, chất là khả năng của một phương pháp sáng tạo đảm bảo rằng nó có tính hệ thống, tức là nó hoàn thành một công việc để đạt được kết quả cụ thể."
+  },
+  {
+    "question_number": "Câu 35.",
+    "question": "Mô hình Chất - Trường (Su-Field) là gì?",
+    "answer": "Mô hình Chất - Trường (Su-Field) là một mô hình đại diện cho tập hợp các tác động lên hệ thống, bao gồm cả của môi trường. Mô hình này phân tích các tác động thành chất, năng lượng, thông tin và tổ hợp của chúng.\n\nTóm tắt: Mô hình Chất - Trường là một mô hình đại diện cho tập hợp các tác động lên hệ thống, bao gồm chất, năng lượng, thông tin và tổ hợp của chúng."
+  },
+  {
+    "question_number": "Câu 36.",
+    "question": "Thử sai (Trial and Error) là gì?",
+    "answer": "Thử sai (Trial and Error) là phương pháp giải quyết vấn đề hoặc tìm kiếm thông tin bằng cách thực hiện nhiều lần thử nghiệm và sai lầm, với hy vọng sẽ phát hiện ra giải pháp hoặc thông tin mong muốn. Phương pháp này dựa trên nguyên tắc \"thực hành để học hỏi\" và thường được sử dụng khi không có đủ thông tin hoặc khi cần phải khám phá một chủ đề mới."
+  },
+  {
+    "question_number": "Câu 37.",
+    "question": "Tính ì tâm lý (Psychological Inertia) là gì?",
+    "answer": "Tính ì tâm lý (Psychological Inertia) là trạng thái giữ lại trạng thái tâm lý cũ, chống lại việc chuyển sang trạng thái tâm lý mới, gây vật cản trong tư duy sáng tạo và đổi mới."
+  },
+  {
+    "question_number": "Câu 38.",
+    "question": "Quy luật phát triển theo hướng tăng tính lý tưởng là gì?",
+    "answer": "Quy luật phát triển theo hướng tăng tính lý tưởng được hiểu là quy luật về sự phát triển của hệ thống theo hướng tăng cường tính lý tưởng của nó, tức là sự tiến hóa của hệ thống từ một trạng thái hiện tại đến một trạng thái lý tưởng hơn."
+  },
+  {
+    "question_number": "Câu 39.",
+    "question": "Quy luật phát triển không đồng đều các phần tử của hệ thống là gì?",
+    "answer": "Quy luật phát triển không đồng đều các phần tử của hệ thống được hiểu là quy luật mà trong quá trình phát triển theo quy luật về tính không đồng đều của hệ thống, các phần của hệ phải phát triển không đồng đều, tức là mỗi phần của hệ phát triển một cách độc lập, không giống nhau về một hoặc vài, hoặc nhiều mặt so với các phần khác."
+  },
+  {
+    "question_number": "Câu 40.",
+    "question": "Quy luật chuyển từ mức hệ thống sang mức hệ trên là gì?",
+    "answer": "Quy luật chuyển từ mức hệ thống sang mức hệ trên được gọi là quy luật \"Chuyển lên\" hoặc \"Chuyển sang hệ rút gọn\". Đây là một trong những quy luật phát triển của hệ thống, giúp cho các bộ phận của hệ thống hoàn thiện chức năng dựa trên nguyên lý/hệ khung mới (paradigms shift) và chuyển dịch sang mức hệ trên tiếp theo.\n\nQuy luật này cho phép người ta chuyển đổi từ mức hệ thống sang mức hệ trên, tạo điều kiện cho sự phát triển bền vững và hiệu quả hơn của hệ thống."
+  },
+  {
+    "question_number": "Câu 41.",
+    "question": "Quy luật chuyển từ mức hệ thống sang mức hệ dưới là gì?",
+    "answer": "Quy luật chuyển từ mức hệ thống sang mức hệ dưới được gọi là \"chuyển sang vepol lưỡng hệ và đa hệ\" hoặc \"chuyển sang hệ rút gọn\"."
+  },
+  {
+    "question_number": "Câu 42.",
+    "question": "Quy luật phát triển theo hướng tăng tính điều khiển là gì?",
+    "answer": "Quy luật phát triển theo hướng tăng tính điều khiển là quy luật phát triển theo hướng tăng tính lý tưởng của hệ thống."
+  },
+  {
+    "question_number": "Câu 43.",
+    "question": "Quy luật phát triển theo hướng tăng tính linh động là gì?",
+    "answer": "Quy luật phát triển theo hướng tăng tính linh động là quy luật về tính linh hoạt của hệ thống, nơi khuynh hướng phát triển của hệ tăng tính linh hoạt, hiểu theo nghĩa và hệ phát triển dần về phía hệ linh hoạt của mình."
+  },
+  {
+    "question_number": "Câu 44.",
+    "question": "Đường cong hình chữ S (S-Curve) mô tả điều gì?",
+    "answer": "Đường cong hình chữ S (S-Curve) là một biểu đồ mô tả sự thay đổi số lần trích dẫn công trình theo thời gian."
+  },
+  {
+    "question_number": "Câu 45.",
+    "question": "Phương pháp sáng tạo là gì?",
+    "answer": "Phương pháp luận sáng tạo và đổi mới (PPLSTVĐM) là một khái niệm liên quan đến việc áp dụng tư duy sáng tạo trong việc giải quyết vấn đề và thực hiện thay đổi trên thực tế.\n\nTư duy sáng tạo là quá trình suy nghĩ, phân tích và tìm kiếm các giải pháp mới để giải quyết vấn đề. PPLSTVĐM đòi hỏi sự kết hợp giữa tư duy sáng tạo và hành động thực hiện, nhằm tạo ra những thay đổi tích cực và bền vững trong thực tế.\n\nPPLSTVĐM không chỉ giới hạn ở việc suy nghĩ và thảo luận về ý tưởng, mà còn cần phải chuyển hóa chúng thành các hành động cụ thể và thực hiện được. Điều này đòi hỏi sự kết hợp giữa tư duy sáng tạo và khả năng thực hiện, cũng như sự linh hoạt và thích nghi với môi trường thực tế.\n\nTóm lại, PPLSTVĐM là một khái niệm liên quan đến việc áp dụng tư duy sáng tạo trong việc giải quyết vấn đề và thực hiện thay đổi trên thực tế, đòi hỏi sự kết hợp giữa tư duy sáng tạo và hành động thực hiện."
+  },
+  {
+    "question_number": "Câu 46.",
+    "question": "TRIZ là gì?",
+    "answer": "TRIZ là một lý thuyết về sự phát triển của các hệ thống, có tính tương đối khái quát và tập trung vào việc giải quyết các bài toán sáng chế trong lĩnh vực kỹ thuật."
+  },
+  {
+    "question_number": "Câu 47.",
+    "question": "Quy luật về tính đầy đủ các phần của hệ thống là gì?",
+    "answer": "Quy luật về tính tự lập (tính đầy đủ) của hệ thống được hiểu là quy luật cho phép hệ thống phát triển và tiến hóa theo hướng mới, dựa trên sự tương hợp và tương ứng giữa các phần của hệ. Điều này cho phép hệ thống đạt được sự cân bằng và ổn định trong việc đáp ứng nhu cầu và mục tiêu của mình.\n\nTrong ngữ cảnh này, tính tự lập của hệ thống ám chỉ khả năng của hệ thống để phát triển và tiến hóa theo hướng mới, dựa trên sự tương hợp và tương ứng giữa các phần của hệ. Điều này cho phép hệ thống đạt được sự cân bằng và ổn định trong việc đáp ứng nhu cầu và mục tiêu của mình.\n\nQuy luật về tính tự lập của hệ thống là một nguyên tắc cơ bản để đảm bảo sự phát triển bền vững và hiệu quả của hệ thống."
+  },
+  {
+    "question_number": "Câu 48.",
+    "question": "Quy luật về tính tương hợp của hệ thống là gì?",
+    "answer": "Quy luật về tính tương hợp của hệ thống là các mối liên kết giữa các phần của hệ thống."
+  },
+  {
+    "question_number": "Câu 49.",
+    "question": "Thủ thuật (nguyên tắc) sáng tạo cơ bản là gì?",
+    "answer": "Thủ thuật (nguyên tắc) sáng tạo cơ bản được hiểu là một phương pháp nhỏ trong TRIZ, nhằm hỗ trợ người sáng tạo thực hiện các giải pháp sáng tạo hiệu quả."
+  }
+]

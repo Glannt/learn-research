@@ -1,0 +1,108 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Subject {
+  id          String    @id
+  name        String
+  slug        String    @unique
+  description String
+  chapters    Chapter[]
+  lessons     Lesson[]
+}
+
+model Chapter {
+  id        String   @id
+  subjectId String
+  title     String
+  slug      String
+  level     String
+  order     Int
+  summary   String
+  subject   Subject  @relation(fields: [subjectId], references: [id])
+  lessons   Lesson[]
+
+  @@unique([subjectId, slug])
+}
+
+model Lesson {
+  id              String     @id
+  chapterId       String
+  subjectId       String
+  title           String
+  slug            String
+  summary         String
+  content         String
+  level           String
+  durationMinutes Int
+  chapter         Chapter    @relation(fields: [chapterId], references: [id])
+  subject         Subject    @relation(fields: [subjectId], references: [id])
+  exercises       Exercise[]
+  progress        Progress[]
+
+  @@unique([subjectId, slug])
+}
+
+model Formula {
+  id          String  @id
+  slug        String
+  subject     String
+  name        String
+  latex       String
+  description String
+  usage       String
+  json        String
+
+  @@unique([subject, slug])
+}
+
+model Simulation {
+  id          String @id
+  slug        String @unique
+  subject     String
+  title       String
+  type        String
+  dimension   String
+  level       String
+  description String
+  json        String
+}
+
+model Exercise {
+  id          String @id
+  lessonId    String
+  subject     String
+  type        String
+  question    String
+  answer      String
+  explanation String
+  difficulty  String
+  json        String
+  lesson      Lesson @relation(fields: [lessonId], references: [id])
+}
+
+model User {
+  id        String     @id @default(cuid())
+  email     String     @unique
+  name      String?
+  progress  Progress[]
+  createdAt DateTime   @default(now())
+}
+
+model Progress {
+  id        String   @id @default(cuid())
+  userId    String
+  lessonId  String
+  completed Boolean  @default(false)
+  score     Float?
+  updatedAt DateTime @updatedAt
+  user      User     @relation(fields: [userId], references: [id])
+  lesson    Lesson   @relation(fields: [lessonId], references: [id])
+
+  @@unique([userId, lessonId])
+}
